@@ -5,3 +5,4 @@ faiss-cpu
 deep-translator
 edge-tts
 numpy
+gTTS==2.3.0
